@@ -1,0 +1,1 @@
+export type StatusTasksT = 'todo' | 'in_progress' | 'ready'
